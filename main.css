@@ -1,7 +1,7 @@
 body {
     background-color: hsl(212, 45%, 89%);
     font-size: 15px;
-    font-family: "Outfit", sans-serif;
+    font-family: "Outfit", Arial;
 }
 
 
@@ -32,6 +32,12 @@ img {
 .SecondText {
     font-weight: 400;
     text-align: center;
+}
+
+footer {
+    position: fixed;
+    right: 0;
+    bottom: 0;
 }
 
 .attribution {
